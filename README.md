@@ -12,8 +12,6 @@ cd try_django
 pipenv --python 3.6 install django==2.2
 pipenv shell
 
-    Don't have pipenv? Check out this guide
-
 Create Django Project
 
 cd /path/to/dev/folder
