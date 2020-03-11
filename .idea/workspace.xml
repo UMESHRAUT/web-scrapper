@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1142a7e3-983d-4d81-91ee-1ffd9d5a4c9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web_scrapper/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_scrapper/settings.py" afterDir="false" />
     </list>
