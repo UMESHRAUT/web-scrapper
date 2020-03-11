@@ -1,0 +1,10 @@
+#!/home/umesh/Desktop/django/web_scrapper/venv/bin/python
+# PBR Generated from 'console_scripts'
+
+import sys
+
+from render import run
+
+
+if __name__ == "__main__":
+    sys.exit(run())

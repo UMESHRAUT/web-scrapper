@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1142a7e3-983d-4d81-91ee-1ffd9d5a4c9f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YtI7AcrxcSTNRs2X1ozVnv2SQG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="898" y="187" key="SettingsEditor" timestamp="1583824732798">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="898" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1583824732798" />
+    <state x="1100" y="297" key="run.anything.popup" timestamp="1583912272900">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1100" y="297" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1583912272900" />
+    <state x="1114" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1583824254493">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1114" y="259" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1583824254493" />
+  </component>
+</project>
